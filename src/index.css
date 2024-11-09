@@ -6,6 +6,10 @@
     font-family: poppins;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 span {
     font-family: inherit;
     font-weight: inherit;
